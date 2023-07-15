@@ -1,12 +1,20 @@
-## Hi there 👋
+# 더넥스트웹리서치랩 소개
+더넥스트웹리서치랩은 미래에 사용될 웹 프론트 엔드(이하 FE) 기술을 전문적으로 연구하고 자료를 발행합니다. 또한 2013년 삼성테크윈(현 한화비전)에 고졸로 입사하고 카카오에서 시니어로 되기까지 FE 개발자로 10년 기간 동안 학습하고 경험했던 노하우를 정리하였고 현업에서 있었던 일화들을 에세이 형식으로 정리합니다.
 
-<!--
+과거에 운영했던 "실용주의 프런트 엔드 개발 Gitbook",  "chodragon9.github.io 기술 블로그" 그리고 450 페이지 이상 정리된 깃헙 위키들을 통합하고 다듬어서 지식과 경험을 집약한 기술 블로그로 만들 예정입니다.
 
-**Here are some ideas to get you started:**
+## 컨텐츠
+### 선행개발
+미래에 사용될 웹 프런트 엔드 기술을 정리합니다. 현업에서는 사용되지 않으면서 시험적인 기술을 위주로 정리합니다.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 실용주의 FE Dev
+FE 개발자로 10년 기간 동안 학습하고 경험했던 노하우를 정리합니다. 중요하다고 생각하는 순서부터 앞장에 작성했습니다.
+
+### 생각정리
+서비스를 개발하면서 떠올랐던 생각들과 경험기에 대한 내용을 정리합니다.
+
+## 운영자 소개
+조용구 | 프런트엔드 개발자 | [LinkedIn](https://www.linkedin.com/in/yongku-cho)
+
+이해하기 쉬운 코드와 아키텍처에 관심이 많아 리팩토링하는 것을 즐깁니다. <br />
+그리고 효율적인 개발과 커뮤니케이션으로 업무 효율을 끌어올리는 것을 자주 고민합니다.
