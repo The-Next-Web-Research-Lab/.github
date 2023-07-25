@@ -13,7 +13,7 @@
 10년간 20개 이상의 서비스를 개발하며 생긴 경험과 생각을 담았습니다.
 
 ## 운영자 소개
-조용구 | ISTJ | 프런트엔드 개발자 | [LinkedIn](https://www.linkedin.com/in/yongku-cho)
+조용구 | ISTJ | 프런트엔드 개발자 | [Github](https://github.com/ChoDragon9) | [LinkedIn](https://www.linkedin.com/in/yongku-cho)
 ​<br /><br />
 고등학생 시절 독학으로 시작해서 여러 번의 대회 수상으로 프런트엔드 개발자를 선택했습니다.<br />
 이후 현업에서 10년 차 동안 대기업에서 2번의 조기진급과 카카오에서 시니어로 인정받았습니다.<br /><br />
